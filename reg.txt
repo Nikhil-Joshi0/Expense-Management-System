@@ -1,0 +1,7 @@
+tarun 123 200
+joshi 12 5000
+nikhil 123 3000
+
+ak 12 290000
+hathi 123 20000
+Nikhil 123 10000
